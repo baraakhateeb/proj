@@ -6,6 +6,7 @@
 //ok it's done successfully
 //hello world ! check if it's connecting .. .
   //test by loay
+//test by github em kajoooo
 	function validate($str) {
 
 		$str=trim($str);
