@@ -4,6 +4,7 @@
     // last change 4.44:AM
    // test
 //ok it's done successfully
+//hello world ! check if it's connecting .. .
 	function validate($str) {
 
 		$str=trim($str);
