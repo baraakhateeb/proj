@@ -3,6 +3,7 @@
     //loay alshaeer 4.22:AM
     // last change 4.44:AM
    // test
+//ok it's done successfully
 	function validate($str) {
 
 		$str=trim($str);
