@@ -5,11 +5,13 @@
    // test
 //ok it's done successfully
 //hello world ! check if it's connecting .. .
+  //test by loay
 	function validate($str) {
 
 		$str=trim($str);
 		$str=stripcslashes($str);
 		return trim(htmlspecialchars($str));
+
 	}
 	$phone='';$name='';$email='';$password='';$website='';$gender='';
 
