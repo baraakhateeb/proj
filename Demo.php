@@ -1,6 +1,8 @@
 <?php
 	//Baraa khateeb 1:27:AM
     //loay alshaeer 4.22:AM
+    // last change 4.44:AM
+   // test
 	function validate($str) {
 
 		$str=trim($str);
